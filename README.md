@@ -6,4 +6,4 @@ Powered by React & Electron
 
 ## TODO
 
-[ ] replace by typescript
+- [ ] replace by typescript
