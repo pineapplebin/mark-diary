@@ -33,6 +33,7 @@
     "electron": "3.0.11",
     "foreman": "^3.0.1",
     "less": "^3.9.0",
+    "node-sass": "^4.11.0",
     "tslint": "^5.11.0",
     "tslint-config-alloy": "^0.2.1"
   }
