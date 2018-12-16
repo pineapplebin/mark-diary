@@ -1,0 +1,14 @@
+{
+  "extends": [
+    "tslint-config-alloy"
+  ],
+  "linterOptions": {
+    "exclude": [
+      "**/node_modules/**"
+    ]
+  },
+  "rules": {
+    "ordered-imports": false,
+    "member-access": false
+  }
+}

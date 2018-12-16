@@ -6,7 +6,8 @@
   "dependencies": {
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
-    "react-scripts": "2.1.1"
+    "react-scripts": "2.1.1",
+    "typescript": "^3.2.2"
   },
   "scripts": {
     "start": "BROWSER=none react-scripts start",
@@ -26,7 +27,13 @@
     "not op_mini all"
   ],
   "devDependencies": {
+    "@types/jest": "^23.3.10",
+    "@types/react": "^16.7.17",
+    "@types/react-dom": "^16.0.11",
     "electron": "3.0.11",
-    "foreman": "^3.0.1"
+    "foreman": "^3.0.1",
+    "less": "^3.9.0",
+    "tslint": "^5.11.0",
+    "tslint-config-alloy": "^0.2.1"
   }
 }
